@@ -14,6 +14,7 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.web.SecurityFilterChain;
 import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
 
+// 필터 부분에서 오래된 내용이라 구현 못한 거 같음
 @Configuration
 @EnableWebSecurity
 @RequiredArgsConstructor
